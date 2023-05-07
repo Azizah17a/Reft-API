@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"categories Product","create a category","SUCCESS","2023-05-07T19:51:29.402+07:00[Asia/Bangkok]","0.0","0.76"
+"categories Product","get category by ID","SUCCESS","2023-05-07T19:51:30.363+07:00[Asia/Bangkok]","0.0","0.12"
+"categories Product","get all categories","SUCCESS","2023-05-07T19:51:30.829+07:00[Asia/Bangkok]","0.0","0.09"
+"categories Product","delete categories","SUCCESS","2023-05-07T19:51:30.948+07:00[Asia/Bangkok]","0.0","0.04"

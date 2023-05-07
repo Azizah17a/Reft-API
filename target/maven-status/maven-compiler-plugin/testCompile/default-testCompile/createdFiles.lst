@@ -1,0 +1,15 @@
+starter\runner2.class
+starter\AltaShop\orders.class
+starter\AltaShop\product.class
+starter\StepsDefinitions\helloSteps.class
+starter\StepsDefinitions\productSteps.class
+starter\AltaShop\categoryProduct.class
+starter\AltaShop\register.class
+starter\StepsDefinitions\UserInformasiSteps.class
+starter\AltaShop\hello.class
+starter\StepsDefinitions\categoryproductSteps.class
+starter\StepsDefinitions\registerSteps.class
+starter\StepsDefinitions\ordersSteps.class
+starter\AltaShop\login.class
+starter\AltaShop\userInfomasi.class
+starter\StepsDefinitions\loginSteps.class

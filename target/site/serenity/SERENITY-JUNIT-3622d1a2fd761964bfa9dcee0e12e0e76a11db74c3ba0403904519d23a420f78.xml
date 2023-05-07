@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="categories Product" skipped="0" tests="4" time="1.01" timestamp="2023-05-07 07:51:29"><testcase name="create a category"/><testcase name="get category by ID"/><testcase name="get all categories"/><testcase name="delete categories"/></testsuite>

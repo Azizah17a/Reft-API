@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Orders","create a new order","SUCCESS","2023-05-07T19:51:29.409+07:00[Asia/Bangkok]","0.0","0.75"
+"Orders","get order by ID","SUCCESS","2023-05-07T19:51:30.185+07:00[Asia/Bangkok]","0.0","0.07"
+"Orders","get all orders","SUCCESS","2023-05-07T19:51:30.379+07:00[Asia/Bangkok]","0.0","0.1"
